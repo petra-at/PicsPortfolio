@@ -1,9 +1,7 @@
 <?php
 	session_start()
 ?>
-
 <html>
-
 	<head>
 		<title>Swig's Tripod</title>
 		<meta charset="utf-8" />
