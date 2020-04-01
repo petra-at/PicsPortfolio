@@ -64,7 +64,7 @@
             <section>
                     
                     <form method="post" action="./includes/contacts.php">
-                        <h3 class="black">Contact Petra Form</h3>
+                        <h3 class="black">Contact Form</h3>
                         <div class="row uniform 50%">
                             <div class="6u 12u$(small) black">
                                 <input type="text" name="name" id="name" value="" placeholder="Name" required/>
