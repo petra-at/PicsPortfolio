@@ -98,9 +98,7 @@
 
 							<div class="u$"></div>
 
-							<div id ="themap" class="6u$(medium) 12u$(small) black">
-							<iframe width="323" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=zimbabwe%2C%20harare&t=&z=5&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-							</div>
+				
 
 							<div class ="2u$ 6u$(small) black" style="color: black">
 									<h5 style="color: black">Contact Info</h5>
